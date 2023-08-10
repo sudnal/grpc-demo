@@ -1,0 +1,2 @@
+mvn exec:java -Dexec.mainClass="com.snalubo.grpcServer.GrpcServer"
+mvn exec:java -Dexec.mainClass="com.snalubo.grpcClient.GrpcClient"
